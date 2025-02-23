@@ -1,0 +1,9 @@
+../Core/Src/main.c:76:7:bytesToFloat	24	static
+../Core/Src/main.c:82:6:CANtoEuler	32	static
+../Core/Src/main.c:90:6:HAL_FDCAN_RxFifo0Callback	56	static
+../Core/Src/main.c:112:5:main	8	static
+../Core/Src/main.c:162:6:SystemClock_Config	88	static
+../Core/Src/main.c:208:13:MX_FDCAN1_Init	32	static
+../Core/Src/main.c:265:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:313:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:346:6:Error_Handler	4	static,ignoring_inline_asm
